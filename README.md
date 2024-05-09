@@ -10,6 +10,7 @@ The Password Manager App is a secure and convenient tool for managing your passw
 - **Delete Password**: Remove passwords from the database when they are no longer needed.
 - **Update Password**: Modify existing passwords to keep them up to date and accurate.
 - **Biometric Authentication**: Securely access the app using biometric authentication methods such as fingerprint or face recognition.
+- **Password Encryption**: Store passwords in an encrypted format to ensure their security and confidentiality.
 
 ## Prerequisites
 - Android device running OS version 7 (Nougat) or later.
